@@ -1,0 +1,171 @@
+# Site settings
+baseurl = "https://fervent-cray-6da21c.netlify.app/"
+languageCode = "en-us"
+title = "Hugo Stellar Theme"
+theme = "stellar"
+
+googleAnalytics = "" #put your google-analytics ID here
+
+[params]
+  [params.header]
+    title = "Getting To Know Privacy"
+    description = 'If there is one thing you learn today, let it be how to better protect your privacy.'
+	image = "images/logo.svg"
+
+  [[params.navigation]]
+    name = "Introduction"
+    href = "#intro"
+
+  [[params.navigation]]
+    name = "First Section"
+    href = "#first"
+
+  [[params.navigation]]
+    name = "Second Section"
+    href = "#second"
+
+#  [[params.navigation]]
+#    name = "Get Started"
+#    href = "#cta"
+
+  [params.intro]
+    title = "Introduction to Basic Privacy"
+    description = "Come check out some resources on how to take your first steps in protecting your privacy both in-person and online"
+    image = "images/TJ.png"
+#    [[params.intro.action]]
+#      buttontext = "Learn More"
+#      href = "generic.html"
+
+
+  [[params.section]]
+    id = "first"
+    title = "Other Resources"
+    description = ""
+    
+    # the picture is storead at static/images/
+    [params.section.features]
+      enable = true
+      [[params.section.feature]]
+        title = "Virtual Privacy Lab"
+        description = "San Jose has an amazing privacy lab that will help you on your journey."
+        image = "images/sanjose.png"
+        url = "https://www.sjpl.org/privacy"
+
+      [[params.section.feature]]
+        title = "Library Freedom Project"
+        description = "Check out this organization for all your privacy needs."
+        image = "images/1_6QpyPNhHukxesxJGivn-jg.png"
+        url = "https://libraryfreedom.org"
+
+      [[params.section.feature]]
+        title = "Electronic Frontier Foundation"
+        description = "The Electronic Frontier Foundation is an international non-profit digital rights group based in San Francisco, California."
+        image = "images/eff.png"
+        url = "https://www.eff.org/"
+    
+    [params.section.footer]
+      enable = true
+      [[params.section.footer.action]]
+        buttontext = "Learn More"
+        buttonUrl = "generic.html"
+
+  [[params.section]]
+    id = "second"
+    title = "Some Stats"
+    description = "Below are some statistics about privacy initiatives."
+
+    [params.section.statistics]
+      enable = true
+      [[params.section.statistic]]
+        icon = "fa-code-fork"
+        value = "71%"
+        text = "HTTPS Traffice"
+      [[params.section.statistic]]
+        icon = "fa-folder-open-o"
+        value = "10.0.12"
+        text = "Current Tor Version"
+      [[params.section.statistic]]
+        icon = "fa-signal"
+        value = "80%"
+        text = "Percentage of People Concerned About Privacy"
+      [[params.section.statistic]]
+        icon = "fa-laptop"
+        value = "68%"
+        text = "People Who Have Used a VPN"
+#      [[params.section.statistic]]
+#        icon = "fa-diamond"
+#        value = "1,024"
+#        text = "Nullam"
+
+    [params.section.content]
+      enable = true
+      text = "There are many aspects to protecting your privacy, from using a Virtual Private Network (VPN) to simple things as wearing a mask to defeat facial recognition software. Other things that you can do to protect yourself is to make sure you're using a privacy screen to make sure people can't check out what you're looking at! You can also uses a operating system called TAILS that allows you to spin up a instance of the operating system that will completely wipe when you log off! Privacy is a tricky thing, and requires some skill and dedication to make it work. There will always be a trade off between privacy and convienence."
+
+    [params.section.footer]
+      enable = true
+      [[params.section.footer.action]]
+        buttontext = "Learn More"
+        buttonUrl = "generic.html"
+
+
+#  [[params.section]]
+#    id = "cta"
+#    title = "Congue imperdiet"
+#    description = "Donec imperdiet consequat consequat. Suspendisse feugiat congue posuere. Nulla massa urna, fermentum eget quam aliquet."
+#    [params.section.footer]
+#      enable = true
+#      [[params.section.footer.action]]
+#        buttontext = "Get Started"
+#        buttonUrl = "generic.html"
+#        customClass = "special"
+#      [[params.section.footer.action]]
+#        buttontext = "Learn More"
+#        buttonUrl = "generic.html"
+
+  [params.footer]
+    enable = true
+    title = "Learn More"
+    description = "Please visit our libraries for more information on these topics. We'll be happy to help you!"
+
+    second_title = "Location and Contact Information"
+    address = "9 E Park St, Lebanon, New Hampshire 03766"
+    phone = "(603) 448-2459"
+    email = "tlamanna42@gmail.com"
+
+#    [[params.footer.action]]
+#      href = "generic.html"
+#      buttontext = "Learn More"
+
+    # social icons
+    [params.footer.social_list]
+      enable = true
+
+      [[params.footer.social]]
+        title = "Twitter"
+        icon = "fa-twitter"
+        link = "#"
+
+      [[params.footer.social]]
+        title = "Facebook"
+        icon = "fa-facebook"
+        link = "#"
+
+      [[params.footer.social]]
+        title = "Instagramm"
+        icon = "fa-instagram"
+        link = "#"
+
+      [[params.footer.social]]
+        title = "Dribbble"
+        icon = "fa-dribbble"
+        link = "#"
+
+      [[params.footer.social]]
+        title = "Email"
+        icon = "fa-envelope"
+        link = "mailto:tlamanna42@gmail.com"
+
+    # copyright
+    [params.footer.copyright]
+      enable = true
+      text = "© T.J. Lamanna, Design: [HTML5UP](//html5up.net)"
