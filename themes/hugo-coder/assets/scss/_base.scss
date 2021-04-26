@@ -9,6 +9,13 @@ html {
   font-size: 62.5%;
 }
 
+.clearfix{
+  display: flex;
+}
+
+.menu-separator{
+  display: none;
+}
 body {
   color: $fg-color;
   background-color: $bg-color;
