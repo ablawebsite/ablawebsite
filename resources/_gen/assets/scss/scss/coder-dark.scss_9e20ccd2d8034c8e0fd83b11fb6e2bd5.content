@@ -101,6 +101,9 @@ body.colorscheme-dark {
     body.colorscheme-auto table th {
       border: 2px solid #dadada; } }
 
+.box {
+  background-color: #red !important; }
+
 body.colorscheme-dark .content .list ul li .title {
   color: #dadada; }
   body.colorscheme-dark .content .list ul li .title:hover, body.colorscheme-dark .content .list ul li .title:focus {

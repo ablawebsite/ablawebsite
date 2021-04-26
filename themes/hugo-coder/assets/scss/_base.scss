@@ -13,8 +13,19 @@ html {
   display: flex;
 }
 
+.container{
+  border-bottom: 1px solid black;
+}
+
 .menu-separator{
   display: none;
+}
+
+.box{
+  border: solid;
+  padding: 5px;
+  border-radius: 25px;
+  width:50%;
 }
 body {
   color: $fg-color;
