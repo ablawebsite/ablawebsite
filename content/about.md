@@ -1,25 +1,20 @@
 +++
-title = "About"
+title = "Mission and Vision Statement"
 description = "Hugo, the world's fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Abolitionist Library Association is a collective of library workers, students, and community members taking action to divest from all forms of policing in libraries and invest in our collective liberation. 
 
-Hugo makes use of a variety of open source projects including:
+We envision a world without policing or prisons. Our goal is to create libraries that are rooted in community self-determination and intellectual freedom through collective action. We will achieve this goal by:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* Establishing a network of library and information workers to support each other in doing divestment work.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+* Providing a space for idea-sharing, strategy, and support for abolition in libraries
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+* Creating and sharing resources about ending police involvement in information spaces and everywhere to achieve real community safety rooted in transformative justice 
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+* Pressuring stakeholders and decision-makers to divest from police 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
