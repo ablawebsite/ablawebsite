@@ -3,6 +3,10 @@ body.colorscheme-dark {
   background-color: #212121; }
   body.colorscheme-dark a {
     color: #42a5f5; }
+  body.colorscheme-dark .box {
+    background-color: #604C88; }
+  body.colorscheme-dark .navigation .container {
+    border-bottom: 1px solid white; }
   body.colorscheme-dark h1,
   body.colorscheme-dark h2,
   body.colorscheme-dark h3,
@@ -55,6 +59,10 @@ body.colorscheme-dark {
     background-color: #212121; }
     body.colorscheme-auto a {
       color: #42a5f5; }
+    body.colorscheme-auto .box {
+      background-color: #604C88; }
+    body.colorscheme-auto .navigation .container {
+      border-bottom: 1px solid white; }
     body.colorscheme-auto h1,
     body.colorscheme-auto h2,
     body.colorscheme-auto h3,
