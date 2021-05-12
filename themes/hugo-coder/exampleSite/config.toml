@@ -151,9 +151,9 @@ weight = 2
 url = "getinvolved/"
 
 [[languages.en.menu.main]]
-name = "Abolition 101"
+name = "Abolishion 101"
 weight = 3
-url = "abolition101/"
+url = "abolishion101/"
 
 [[languages.en.menu.main]]
 name = "Resources"
