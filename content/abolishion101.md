@@ -1,5 +1,5 @@
 +++
-title = "abolition101"
+title = "abolishion101"
 slug = "abolishion101"
 +++
 
