@@ -1862,7 +1862,7 @@
 		border: solid;
 		margin-bottom: 2em;
 		padding: 1.5em;
-		margin-left:5px;
+		margin-left:5px !important;
 	}
 
 		.box > :last-child,
