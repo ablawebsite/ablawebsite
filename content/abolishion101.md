@@ -5,7 +5,7 @@ slug = "abolition101"
 
 Abolition 101
 Are you new to abolition, or just want to learn some basics? Here are some good starting points: 
-* Angela Davis, <a href="http://www.worldcat.org/oclc/52832083">Are Prisons Obsolete</a>
+* Angela Davis, [Are Prisons Obsolete](http://www.worldcat.org/oclc/52832083)
 * Mariame Kaba, 9 Commitments for 2021
 * Mariame Kaba, Yes, We Mean Literally Abolish the Police
 * Abolition for the People series
