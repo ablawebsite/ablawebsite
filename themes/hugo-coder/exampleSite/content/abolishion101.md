@@ -1,6 +1,6 @@
 +++
-title = "abolishion101"
-slug = "abolishion101"
+title = "abolition101"
+slug = "abolition101"
 +++
 
 Mission and vision statement
