@@ -1,5 +1,5 @@
 baseURL = "https://modest-colden-86b261.netlify.app/"
-title = "Abolistionist Library Association"
+title = "Abolitionist Library Association"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,7 +12,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Abolistionist Library Association"
+author = "Abolitionist Library Association"
 description = "John Doe's personal website"
 keywords = "blog,developer,personal"
 # info = "Full Stack DevOps and Magician"
