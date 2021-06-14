@@ -6,4 +6,4 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Please checkout https://bit.ly/338f5r3 for our current list of resources.
+Please check out https://bit.ly/338f5r3 for our current list of resources.
