@@ -157,7 +157,7 @@ url = "abolition101/"
 
 [[languages.en.menu.main]]
 name = "Resources"
-weight = 5
+weight = 4
 url = "resources/"
 
 # [languages.pt-br]
