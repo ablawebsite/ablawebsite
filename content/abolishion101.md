@@ -3,7 +3,6 @@ title = "Abolition 101"
 slug = "abolition101"
 +++
 
-
 Are you new to abolition, or just want to learn some basics? Here are some good starting points: 
 * Angela Davis, [Are Prisons Obsolete](http://www.worldcat.org/oclc/52832083)
 * Mariame Kaba, [9 Commitments for 2021](https://docs.google.com/document/d/e/2PACX-1vRR6IALSI7L16B0AdDwQ4EZ2W3cKhRh2jE_OFcli13S-G3mLy3DzTjRehXerTM7HP2rjcIR2SJpV5ML/pub)
@@ -15,3 +14,6 @@ Are you new to abolition, or just want to learn some basics? Here are some good 
 * [Inside This Place, Not of It: Narratives from Women’s Prisons](https://voiceofwitness.org/oral-history-book-series/women-in-prison/)
 * [One Million Experiments](https://millionexperiments.com/)
 * Project Nia, [Cosmic Possibilities: An Intergalactic Youth Guide to Abolition](https://issuu.com/projectnia/docs/_2021__ayo-final-combined) 
+
+Library Worker Created Resourses:
+* WhimseyLibrarian [Policing Doesn't Protect Us](https://padlet.com/whimsylibrarian/policing)
