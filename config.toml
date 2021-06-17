@@ -11,6 +11,9 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 author = "Abolitionist Library Association"
 description = "John Doe's personal website"
