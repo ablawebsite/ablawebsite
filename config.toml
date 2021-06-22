@@ -16,8 +16,8 @@ unsafe = true
 
 [params]
 author = "Abolitionist Library Association"
-description = "John Doe's personal website"
-keywords = "blog,developer,personal"
+description = "ABLA's website"
+keywords = "abolition, libraries, library workers, activism"
 # info = "Full Stack DevOps and Magician"
 avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
