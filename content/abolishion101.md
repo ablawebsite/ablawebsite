@@ -15,5 +15,5 @@ Are you new to abolition, or just want to learn some basics? Here are some good 
 * [One Million Experiments](https://millionexperiments.com/)
 * Project Nia, [Cosmic Possibilities: An Intergalactic Youth Guide to Abolition](https://issuu.com/projectnia/docs/_2021__ayo-final-combined) 
 
-Library Worker Created Resourses:
+Library Worker Created Resources:
 * WhimseyLibrarian [Policing Doesn't Protect Us](https://padlet.com/whimsylibrarian/policing)
