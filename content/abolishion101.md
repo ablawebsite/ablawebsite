@@ -6,7 +6,6 @@ slug = "abolition101"
 From where we are now, sometimes it is challenging to imagine what abolition is going to look like. Abolition isn’t just about getting rid of buildings full of cages. It’s also about undoing the society we live in because the PIC both feeds on and maintains oppression and inequalities through punishment, violence, and controls millions of people. Because the PIC is not an isolated system, abolition is a broad strategy. An abolitionist vision means that we must build models today that can represent how we want to live in the future. It means developing practical strategies for taking small steps that move us toward making our dreams real and that lead us all to believe that things really could be different. It means living this vision in our daily lives.
 
 Abolition is both a practical organizing tool and a long-term goal.
-
 <i> -  Critical Resistance, ["Our Communities, Our Solutions: An Organizer’s Toolkit for Developing Campaigns to Abolish Policing" (2020)](http://criticalresistance.org/abolish-policing-toolkit/) </i>
 
 
