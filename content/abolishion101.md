@@ -7,7 +7,7 @@ From where we are now, sometimes it is challenging to imagine what abolition is 
 
 Abolition is both a practical organizing tool and a long-term goal.
 
-<i> -  Critical Resistance, "Our Communities, Our Solutions: An Organizer’s Toolkit for Developing Campaigns to Abolish Policing" (2020) </i>
+<i> -  Critical Resistance, ["Our Communities, Our Solutions: An Organizer’s Toolkit for Developing Campaigns to Abolish Policing" (2020)](http://criticalresistance.org/abolish-policing-toolkit/) </i>
 
 
 Are you new to abolition, or just want to learn some basics? Here are some good starting points: 
