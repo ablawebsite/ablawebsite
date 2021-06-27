@@ -2883,7 +2883,9 @@ html {
   font-size: 62.5%; }
 
 .box {
-  background-color: #C4C4DF; }
+  background-color: #C4C4DF;
+  width: 50%;
+  margin: 1%; }
 
 .clearfix {
   display: flex; }
@@ -3162,7 +3164,7 @@ img.emoji {
     margin: 0; }
 
 .avatar img {
-  width: 20rem;
+  /*  width: 20rem; */
   height: auto;
   border-radius: 50%; }
   @media only screen and (max-width: 768px) {
@@ -3325,6 +3327,10 @@ img.emoji {
 .navigation {
   height: 6rem;
   width: 100%; }
+  .navigation li a[href$='https://modest-colden-86b261.netlify.app/pt-br/'] {
+    display: none; }
+  .navigation input #menu-toggle {
+    display: none; }
   .navigation a,
   .navigation span {
     display: inline;
@@ -3336,8 +3342,8 @@ img.emoji {
   .navigation a:hover, .navigation a:focus {
     color: #1565c0; }
   .navigation .navigation-title {
-    letter-spacing: 0.1rem;
-    text-transform: uppercase; }
+    /*  letter-spacing: 0.1rem;
+    text-transform: uppercase; */ }
   .navigation .navigation-list {
     float: right;
     list-style: none;

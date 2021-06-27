@@ -1,5 +1,5 @@
 baseURL = "https://modest-colden-86b261.netlify.app/"
-title = "Abolistionist Library Association"
+title = "Abolitionist Library Association"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -11,12 +11,15 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
-author = "Ipsum dolor sit amet nullam"
-description = "John Doe's personal website"
-keywords = "blog,developer,personal"
+author = "Abolitionist Library Association"
+description = "ABLA's website"
+keywords = "abolition, libraries, library workers, activism"
 # info = "Full Stack DevOps and Magician"
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
 # footerContent = "Enter a text here."
 dateFormat = "January 2, 2006"
@@ -151,13 +154,13 @@ weight = 2
 url = "getinvolved/"
 
 [[languages.en.menu.main]]
-name = "Abolishion 101"
+name = "Abolition 101"
 weight = 3
-url = "abolishion101/"
+url = "abolition101/"
 
 [[languages.en.menu.main]]
 name = "Resources"
-weight = 5
+weight = 4
 url = "resources/"
 
 # [languages.pt-br]

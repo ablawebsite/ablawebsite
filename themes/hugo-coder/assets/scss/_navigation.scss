@@ -1,7 +1,15 @@
+
 .navigation {
   height: 6rem;
   width: 100%;
 
+  li a[href$='https://modest-colden-86b261.netlify.app/pt-br/']{
+    display: none;
+   }
+
+  input #menu-toggle{
+    display: none;
+  }
   a,
   span {
     display: inline;
@@ -21,8 +29,8 @@
   }
 
   .navigation-title {
-    letter-spacing: 0.1rem;
-    text-transform: uppercase;
+  /*  letter-spacing: 0.1rem;
+    text-transform: uppercase; */
   }
 
   .navigation-list {
