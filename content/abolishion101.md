@@ -9,7 +9,7 @@ Abolition is both a practical organizing tool and a long-term goal.
 <i> -  Critical Resistance, ["Our Communities, Our Solutions: An Organizer’s Toolkit for Developing Campaigns to Abolish Policing" (2020)](http://criticalresistance.org/abolish-policing-toolkit/) </i>
 
 
-Are you new to abolition, or just want to learn some basics? Here are some good starting points: 
+<h3> Are you new to abolition, or just want to learn some basics? Here are some good starting points: </h3>
 * Angela Davis, [Are Prisons Obsolete](http://www.worldcat.org/oclc/52832083)
 * Mariame Kaba, [9 Commitments for 2021](https://docs.google.com/document/d/e/2PACX-1vRR6IALSI7L16B0AdDwQ4EZ2W3cKhRh2jE_OFcli13S-G3mLy3DzTjRehXerTM7HP2rjcIR2SJpV5ML/pub)
 * Mariame Kaba, [Yes, We Mean Literally Abolish the Police](https://www.nytimes.com/2020/06/12/opinion/sunday/floyd-abolish-defund-police.html)
@@ -21,5 +21,5 @@ Are you new to abolition, or just want to learn some basics? Here are some good 
 * [One Million Experiments](https://millionexperiments.com/)
 * Project Nia, [Cosmic Possibilities: An Intergalactic Youth Guide to Abolition](https://issuu.com/projectnia/docs/_2021__ayo-final-combined) 
 
-And here are some library worker-created resources:
+<h3> And here are some library worker-created resources: </h3>
 * WhimseyLibrarian [Policing Doesn't Protect Us](https://padlet.com/whimsylibrarian/policing)
