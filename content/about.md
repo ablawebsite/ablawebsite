@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Abolitionist Library Association is a collective of library workers, students, and community members taking action to divest from all forms of policing in libraries and invest in our collective liberation. 
+#### Abolitionist Library Association is a collective of library workers, students, and community members taking action to divest from all forms of policing in libraries and invest in our collective liberation. 
 
 We envision a world without policing or prisons. Our goal is to create libraries that are rooted in community self-determination and intellectual freedom through collective action. We will achieve this goal by:
 
@@ -18,7 +18,7 @@ We envision a world without policing or prisons. Our goal is to create libraries
 
 * Pressuring stakeholders and decision-makers to divest from police 
 
---
+---
 
 About this site: The AbLA site is hosted on Github, who, through their parent company Microsoft, holds a contract with Immigration and Customs Enforcement (ICE). Given that ICE enacts harmful and deeply racist acts of violence including deportation and incarceration, AbLA would like to acknowledge that our mission and values are antithetical to this partnership and to all other perpetuations of violence and erasure committed against BIPOC communities. For more information about the intersections between technology, surveillance, and incarceration, please visit this [resource](https://aas.princeton.edu/news/ruha-benjamin-tech-workers-refusing-create-tools-surveillance)
 
