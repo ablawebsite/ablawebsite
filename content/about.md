@@ -19,4 +19,8 @@ We envision a world without policing or prisons. Our goal is to create libraries
 * Pressuring stakeholders and decision-makers to divest from police 
 
 
+<span style="font-size:10px;">
+About this site
+
+The AbLA site is hosted on Github, who, through their parent company Microsoft, holds a contract with Immigration and Customs Enforcement (ICE). Given that ICE enacts harmful and deeply racist acts of violence including deportation and incarceration, AbLA would like to acknowledge that our mission and values are antithetical to this partnership and to all other perpetuations of violence and erasure committed against BIPOC communities. For more information about the intersections between technology, surveillance, and incarceration, please visit this [resource](https://aas.princeton.edu/news/ruha-benjamin-tech-workers-refusing-create-tools-surveillance). 
 
