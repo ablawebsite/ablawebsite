@@ -1,5 +1,5 @@
 +++
-title = "Banned Books"
+title = "Banned Books!"
 description = "Books Banned In Prisons and Jails"
 date = "2021-06-30"
 aliases = ["banned", "banned books"]
