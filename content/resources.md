@@ -7,5 +7,13 @@ author = "Hugo Authors"
 +++
 
 
+* <a href="/images/AbLA - Resource Guide - Anti-Racism.pdf">Anti-Racism Resources</a>
+* <a href="/images/AbLA - Resource Guide - Divestment.pdf">Divestment Resources</a>
+* <a href="/images/AbLA - Resource Guide - Abolition">Abolition Resources</a>
+* <a href="/images/AbLA - Resource Guide - Cyber Security.pdf">Cybersecurity Resources</a>
+* <a href="/images/AbLA - Resource Guide - Organizing.pdf">Organizing Resources</a>
+* <a href="/images/AbLA - Resource Guide - R&T Justice.pdf">R&T Justice Resources</a>
+* <a href="/images/AbLA - Resource Guide - Rural.pdf">Rural Resources</a>
+* <a href="/images/AbLA - Resource Guide - Other Relevant Resources.pdf">Other Resources</a>
 
-Please check out https://bit.ly/338f5r3 for our current list of resources.
+Updated 7/13/21

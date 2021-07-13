@@ -3334,7 +3334,7 @@ img.emoji {
   .navigation a,
   .navigation span {
     display: inline;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, sans-serif;
     font-weight: 600;
     line-height: 6rem;

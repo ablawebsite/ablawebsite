@@ -163,6 +163,16 @@ name = "Resources"
 weight = 4
 url = "resources/"
 
+# [[languages.en.menu.main]]
+# name = "Banned Books"
+# weight = 5
+# url = "bannedbooks/"
+
+# [[languages.en.menu.main]]
+# name = "Events"
+# weight = 6
+# url = "events/"
+
 # [languages.pt-br]
 # languageName = ":brazil:"
 # title = "João Ninguém"
