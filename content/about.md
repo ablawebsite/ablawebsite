@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Abolitionist Library Association is a collective of library workers, students, and community members taking action to divest from all forms of policing in libraries and invest in our collective liberation. 
+### Abolitionist Library Association is a collective of library workers, students, and community members taking action to divest from all forms of policing in libraries and invest in our collective liberation. 
 
 We envision a world without policing or prisons. Our goal is to create libraries that are rooted in community self-determination and intellectual freedom through collective action. We will achieve this goal by:
 
@@ -17,6 +17,12 @@ We envision a world without policing or prisons. Our goal is to create libraries
 * Creating and sharing resources about ending police involvement in information spaces and everywhere to achieve real community safety rooted in transformative justice 
 
 * Pressuring stakeholders and decision-makers to divest from police 
+
+### Position statements and calls to action
+
+* [LAMC 41.18 statement](https://medium.com/@AbolitionistLibraryAssociation/41-18-call-to-action-54522bc41e14?source=friends_link&sk=64a844df82905863ba40f9b456bc081e)
+
+* [Ivy+ statement](https://ablaivy.medium.com/a-call-for-ivy-libraries-to-divest-from-police-and-prisons-and-invest-in-life-giving-resources-fdd5889270df))
 
 ---
 
