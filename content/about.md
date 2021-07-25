@@ -18,11 +18,12 @@ We envision a world without policing or prisons. Our goal is to create libraries
 
 * Pressuring stakeholders and decision-makers to divest from police 
 
-### Position statements and calls to action
+
+#### Position statements and calls to action:
 
 * [LAMC 41.18 statement](https://medium.com/@AbolitionistLibraryAssociation/41-18-call-to-action-54522bc41e14?source=friends_link&sk=64a844df82905863ba40f9b456bc081e)
 
-* [Ivy+ statement](https://ablaivy.medium.com/a-call-for-ivy-libraries-to-divest-from-police-and-prisons-and-invest-in-life-giving-resources-fdd5889270df))
+* [Ivy+ statement](https://ablaivy.medium.com/a-call-for-ivy-libraries-to-divest-from-police-and-prisons-and-invest-in-life-giving-resources-fdd5889270df)
 
 ---
 
