@@ -12,7 +12,7 @@ Subscribe to our listserv for information about how to get involved and how to j
 For general inquiries and questions, contact ablawebsite@riseup.net.
 
 
-*AbLA Working Groups*
+**AbLA Working Groups**
 Abolition in Special Collections
 
 The Abolition in Special Collections group is a collective of library workers in archives and special collections interested in disrupting our involvement with policing, armed response, surveillance, and the prison industrial complex. The group seeks to catalyse a cultural shift and to interrogate legacy practices and attitudes that perpetuate oppression. For more information, contact ablaspeccoll@gmail.com. To sign up for the group’s mailing list, visit https://lists.riseup.net/www/subscribe/abolition-in-special-collections. 
