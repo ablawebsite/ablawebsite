@@ -8,7 +8,7 @@ author = "AbLA"
 AbLA members created an annotated guide to support those looking for more information and resources on the topics of: Police and Prison Abolition, Anti-Racism, Cyber Security, Organizing, Rural Libraries, Restorative and Transformative Justice, and information about other information spaces involved in police and prison divestment. 
 
 
-By clicking on the links below you will automatically download PDFs of the sheets according to their topic. To view the document in its entirety visit [AbLA Resources](www.bit.ly/AbLA-Resources).
+By clicking on the links below you will automatically download PDFs of the sheets according to their topic. To view the document in its entirety visit [AbLA Resources](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vTiWz-I4AX75Qgs7N7Cp6DqgANvv-E_31lnlizfjXrRczB0oY4NGlFO6DedXq_8HTMtbzxfnlGTp4jL/pubhtml).
 
 If you’d like to submit a resource to be added to the list please fill out our [form](https://forms.gle/Hunna2BDy1DMMzWR8).
 
@@ -21,4 +21,4 @@ If you’d like to submit a resource to be added to the list please fill out our
 * <a href="/images/AbLA - Resource Guide - Rural.pdf" target="_blank">Rural Resources</a>
 * <a href="/images/AbLA - Resource Guide - Other Relevant Resources.pdf" target="_blank">Other Resources</a>
 
-Updated 7/16/21
+Updated 9/04/21
