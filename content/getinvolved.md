@@ -23,3 +23,7 @@ If you’d like to submit a resource to be added to the list please fill out [ou
 
 
 **Library Divestment from Prison Industrial Complex (PIC) Labor** - The Library Divestment from Prison Industrial Complex (PIC) Labor Working Group examines library investment in the PIC, from procurement to vendor contracts to endowment portfolios and works to empower library workers to advocate for PIC divestment within their institutions. To contact the group or request to join its email list, contact abladivest@protonmail.com 
+
+**Information Access for Incarcerated People** 
+This group will 1) serve as a learning space and resource hub for people seeking to plug into abolitionist information access projects in prisons and jails; 2) support library workers and abolitionist groups that provide information services for incarcerated people; 3) push back against prison censorship and surveillance of information resources; and 4) build solidarity with people inside and follow their lead in this work. Our goal is to ensure that incarcerated people have full access to all the information they need as we work together towards a complete abolition of carceral systems. To participate, contact abla_infoaccess@protonmail.com or visit https://lists.riseup.net/www/subscribe/ablainfoaccess to join the mailing list.
+
